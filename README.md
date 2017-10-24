@@ -32,24 +32,24 @@ While uploading a file into S3 the details of the file is simultaneously stored 
 
 
 ## Sample Demo Screenshots
-![alt text](/Users/andrew/Documents/Githubimages/LoginScreen.png "Login Screen")
+![alt text](Images/LoginScreen.png "Login Screen")
 
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.35.31 PM.png "Upload Screen")
+![alt text](Images/Update.png "Upload Screen")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.36.16 PM.png "Upload Screen Success")
+![alt text](Images/UpdateSuccess "Upload Screen Success")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.36.29 PM.png "Read/List Screen")
+![alt text](Images/ReadList "Read/List Screen")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.36.39 PM.png "Download Object")
+![alt text](Images/Download "Download Object")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.36.50 PM.png "Update Screen")
+![alt text](Images/Update "Update Screen")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.37.06 PM.png "Update Success")
+![alt text](Images/UpdateSuccess "Update Success")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.37.14 PM.png "Delete Screen")
+![alt text](Images/Delete "Delete Screen")
 
-![alt text](/Users/andrew/Documents/Githubimages/Screen Shot 2017-10-23 at 2.37.17 PM.png "Delete Success")
+![alt text](Images/DeleteSuccess "Delete Success")
 
 
 ## Pre-requisites Set Up
