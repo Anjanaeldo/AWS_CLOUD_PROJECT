@@ -128,7 +128,7 @@ While uploading a file into S3 the details of the file is simultaneously stored 
 
 - To make our applcation publicly available with the registered domain name, click on record set in route 53.Give a name For example : "www".Click yes for alias and select the beanstalk URL.Click on Create.It might take quite sometime for the domain to be available.
 
-##Local Set  Up
+## Local Set  Up
  - Eclipse IDE - I have downloaded Eclipse IDE NEON 2 version for wirting JAVA code in my local.
 
  - SPRING 3.0 - I have used spring mvc framwork in my application.I have imported all the jars into my lib folder in my project.
@@ -137,7 +137,7 @@ While uploading a file into S3 the details of the file is simultaneously stored 
 
  - Apache Tomcat V8 - web server has been installed in my eclipse.
 
-##How to set up and run project locally
+## How to set up and run project locally
 
  - Open Eclipse IDE in JAVA EE perspective.Click on New project and select Dynamic Web Application.Check the checkbox for generating web.xml file.Click on Finish.You can see the project in project explorer.
  - Click on helpin eclipse ide and install new software.
