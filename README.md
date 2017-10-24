@@ -34,22 +34,22 @@ While uploading a file into S3 the details of the file is simultaneously stored 
 ## Sample Demo Screenshots
 ![alt text](Images/LoginScreen.png "Login Screen")
 
+![alt text](Images/Index.png "Index")
+![alt text](Images/Uplaod.png "Upload Screen")
 
-![alt text](Images/Update.png "Upload Screen")
+![alt text](Images/UploadSuccess.png "Upload Screen Success")
 
-![alt text](Images/UpdateSuccess "Upload Screen Success")
+![alt text](Images/ReadList.png "Read/List Screen")
 
-![alt text](Images/ReadList "Read/List Screen")
+![alt text](Images/Downloaded.png "Download Object")
 
-![alt text](Images/Download "Download Object")
+![alt text](Images/Update.png "Update Screen")
 
-![alt text](Images/Update "Update Screen")
+![alt text](Images/UpdateSuccess.png "Update Success")
 
-![alt text](Images/UpdateSuccess "Update Success")
+![alt text](Images/Delete.png "Delete Screen")
 
-![alt text](Images/Delete "Delete Screen")
-
-![alt text](Images/DeleteSuccess "Delete Success")
+![alt text](Images/DeleteSuccess.png "Delete Success")
 
 
 ## Pre-requisites Set Up
