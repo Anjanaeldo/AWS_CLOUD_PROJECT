@@ -2,7 +2,7 @@ AWS CLOUD PROJECT
 ======================
 
 - University Name: http://www.sjsu.edu/ 
-- Course: Cloud Technologies
+- Course: Cloud Technologies 281
 - Professor Sanjay Garje 
 - ISA: Divyankitha Urs
 - Student: Anjana Eldo
